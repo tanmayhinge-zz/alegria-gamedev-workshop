@@ -6,6 +6,10 @@ I made this manuscript as a revision for the participants as well as anyone on t
 
 ---
 
+![img](banner.png)
+
+---
+
 ## 1. Software Installation
 As we will be doing this workshop using the Unity Game Engine, let's first install that, check out these [instructions](./install-instructions/instructions.md) this link also contains a Google Drive folder link that you need to install and keep on your computer.
 
