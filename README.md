@@ -32,7 +32,7 @@ Learn a Game Engine -> Object Oriented Programming -> Asset Creation -> Making M
 ### 4. PART 1 - Unity Overview and Environment Creation
 In this section we discussed the Unity Engine and Made a Beautiful Environment and imported a First Person Character in it so we can move around the level!
 
-[Complete Project]()
+[Complete Project](https://github.com/tanmayhinge/alegria-gamedev-workshop/tree/master/first)
 
 ---
 
@@ -41,6 +41,6 @@ In this section, we discussed the C# language and made an android game!
 
 [Scripts](./Scripts/Scripts.md)
 
-[Complete Project]()
+[Complete Project](https://github.com/tanmayhinge/alegria-gamedev-workshop/tree/master/second)
 
 ---
